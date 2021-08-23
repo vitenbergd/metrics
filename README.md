@@ -1,5 +1,5 @@
 ## What is Metrics?
-Metrics exposes deafult Go runtime  and couple of custom [Prometheus](https://prometheus.io/docs/guides/go-application/)
+Metrics exposes default Go runtime and a couple of custom [Prometheus](https://prometheus.io/docs/guides/go-application/)
 with HTTP authorization via token.
 
 ## Dependencies
