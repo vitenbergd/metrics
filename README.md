@@ -21,7 +21,7 @@ docker build -t metrics:0.0.1 .
 ## Run
 To run just simply execute built binary
 ```  
-METRICS_TOKEN_FILE=/tokens.csv ./app
+METRICS_TOKEN_FILE=./tokens.csv ./app
 ```
 To run in docker:
 ```
